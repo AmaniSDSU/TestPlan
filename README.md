@@ -5,3 +5,6 @@ Added test cases TC004, TC005, and TC006 that account for User.UserLogin(), inte
 
 Tests fulfill the requirements for SDS Test Plan as a part of the rubric.
 
+Aden Moon:
+Completed test cases TC007, TC008 that implement tests for timeRemaining in Cart and FoodNames in Food. 
+Completed System information of Test Plan.
